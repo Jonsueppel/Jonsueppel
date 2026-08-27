@@ -12,13 +12,13 @@
 
 ## 👨‍💻 Whoami
 
-- 14+ years designing, securing, modernizing, and supporting enterprise infrastructure  
-- Expertise across Microsoft 365, Azure, Entra ID, Intune, VMware, and Windows Server  
-- Building scalable, secure, and repeatable solutions across cloud and on-premises environments  
-- Automating infrastructure and operational workflows with PowerShell, Microsoft Graph, APIs, and Power Automate  
-- Experienced in identity, endpoint management, virtualization, networking, backup, and infrastructure security  
-- Building practical Raspberry Pi, church technology, Home Assistant, and homelab solutions  
-- Focused on senior infrastructure engineering, Microsoft platform engineering, cloud engineering, and architecture opportunities  
+- 14+ years designing, modernizing, and supporting business-critical infrastructure across complex, multi-site environments  
+- Deep expertise in Microsoft 365, Azure, Entra ID, Intune, VMware, Windows Server, and hybrid identity  
+- Lead cloud migrations, infrastructure modernization, endpoint management, virtualization, networking, backup, and security initiatives  
+- Automate administration and operational workflows with PowerShell, Microsoft Graph, REST APIs, and Power Automate  
+- Turn complex technical challenges into secure, resilient, and repeatable solutions that improve day-to-day operations  
+- Build practical Raspberry Pi, church technology, Home Assistant, and homelab solutions outside the enterprise  
+- Pursuing senior infrastructure, Microsoft platform, cloud engineering, and infrastructure architecture opportunities  
 
 <p align="center">
   <a href="https://account.venmo.com/u/Jonathon-Sueppel">
