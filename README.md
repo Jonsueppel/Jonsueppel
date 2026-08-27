@@ -20,6 +20,12 @@
 - Building practical Raspberry Pi, church technology, Home Assistant, and homelab solutions  
 - Focused on senior infrastructure engineering, Microsoft platform engineering, cloud engineering, and architecture opportunities  
 
+<p align="center">
+  <a href="https://account.venmo.com/u/Jonathon-Sueppel">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+</p>
+
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
 ## 🧰 Tech & Tools I Use
