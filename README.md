@@ -1,76 +1,87 @@
-<div align="center">
+<h1 align="center">Hi, I'm Jonathon Sueppel 👋</h1>
 
-# Hi, I'm Jonathon Sueppel
+<p align="center">
+  <strong>Senior Infrastructure Engineer | Microsoft Cloud, Security & Automation</strong><br/>
+  Shelby, North Carolina • 14+ Years in IT • Enterprise + Hybrid Infrastructure Engineer
+</p>
 
-### Senior Infrastructure Engineer | Microsoft Cloud, Automation & Enterprise Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Remote%20%7C%20Hybrid-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Remote or Hybrid" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathon-sueppel-338a475a)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonsueppel)
+## 👨‍💻 Whoami
 
-Shelby, North Carolina · 14+ years in IT · Enterprise infrastructure, cloud, security & automation
+- 14+ years designing, securing, modernizing, and supporting enterprise infrastructure  
+- Expertise across Microsoft 365, Azure, Entra ID, Intune, VMware, and Windows Server  
+- Building scalable, secure, and repeatable solutions across cloud and on-premises environments  
+- Automating infrastructure and operational workflows with PowerShell, Microsoft Graph, APIs, and Power Automate  
+- Experienced in identity, endpoint management, virtualization, networking, backup, and infrastructure security  
+- Building practical Raspberry Pi, church technology, Home Assistant, and homelab solutions  
+- Focused on senior infrastructure engineering, Microsoft platform engineering, cloud engineering, and architecture opportunities  
 
-</div>
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
----
+## 🧰 Tech & Tools I Use
 
-## About Me
+**Infrastructure:** VMware vSphere/ESXi · Hyper-V · Veeam · Windows Server · Active Directory · Linux  
+**Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID · Exchange Online · Teams · SharePoint  
+**Automation:** PowerShell · Microsoft Graph · REST APIs · Power Automate · GitHub Actions  
+**Networking:** UniFi · pfSense · VLAN Design · VPNs · DNS · DHCP · Tailscale · Cloudflare Tunnels  
+**Security:** Conditional Access · MFA · RBAC · Sophos · Proofpoint · Microsoft Defender · Duo  
+**Containers & Self-Hosted:** Docker · Home Assistant · AdGuard Home · Proxmox · Raspberry Pi  
+**Development & Data:** JavaScript · Node.js · SQLite · SQL Server · Snowflake  
+**Enterprise:** ConnectWise · ScreenConnect · Log360 · Endpoint Configuration Manager · UniFi Protect  
 
-I am a senior infrastructure professional who designs, secures, automates, and supports enterprise technology across hybrid cloud and on-premises environments. I enjoy turning complex operational problems into reliable, maintainable solutions that improve security and make technology easier to manage.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg" height="40" alt="VMware"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/>
+  <img src="https://cdn.simpleicons.org/ubiquiti/0598D6" height="40" alt="Ubiquiti"/>
+  <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" height="40" alt="Home Assistant"/>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/>
+  <img src="https://cdn.simpleicons.org/tailscale/ffffff" height="40" alt="Tailscale"/>
+</p>
 
-- Design and support Microsoft-focused enterprise infrastructure across Azure, Microsoft 365, Entra ID, Intune, VMware, and Windows Server
-- Lead infrastructure modernization, cloud migration, identity, endpoint management, networking, and security initiatives
-- Automate administration and repeatable processes with PowerShell, Power Automate, APIs, and Microsoft Graph
-- Build practical tools for real-world needs, including church technology, Raspberry Pi, home automation, and homelab projects
-- Interested in senior infrastructure engineering, Microsoft platform engineering, cloud engineering, and infrastructure architecture opportunities
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
----
+## 📂 Projects
 
-## Technologies & Platforms
+### ⛪ Church Technology & Automation
 
-**Microsoft Cloud:** Azure · Microsoft 365 · Entra ID · Intune · Autopilot · Exchange Online · SharePoint · Teams  
-**Infrastructure:** Windows Server · Active Directory · VMware vSphere/ESXi · Hyper-V · Veeam · Linux  
-**Automation:** PowerShell · Microsoft Graph · Power Automate · REST APIs · GitHub Actions  
-**Networking:** UniFi · pfSense · VLANs · VPNs · DNS · DHCP · Tailscale · Cloudflare Tunnels  
-**Security:** Conditional Access · MFA · RBAC · Sophos · Proofpoint · Microsoft Defender  
-**Development & Data:** JavaScript · Node.js · SQLite · SQL Server · Docker · Raspberry Pi  
-**Operations:** ConnectWise · ScreenConnect · Log360 · SNMP · Microsoft Endpoint Configuration Manager
+- **[Hymn Console](https://github.com/Jonsueppel/Hymn-Console)** — Raspberry Pi hymn playback and service queue system designed to give church AV volunteers a simple, reliable way to organize and play music during services. `JavaScript` `Node.js` `SQLite` `Raspberry Pi` `AirPlay`
 
----
+### 🏠 Infrastructure & Homelab
 
-## Featured Project
+- Building advanced Home Assistant dashboards and automations for lighting, climate, locks, cameras, presence, media, and whole-home control  
+- Designing secure UniFi networks, camera systems, VLANs, remote access, and resilient connectivity  
+- Developing reusable PowerShell and Microsoft 365 administration tools for repeatable enterprise operations  
 
-### [Hymn Console](https://github.com/Jonsueppel/Hymn-Console)
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-A Raspberry Pi-based hymn playback and service queue system designed for churches. Hymn Console provides a simple, purpose-built interface for organizing and playing music during services while reducing the complexity placed on volunteers.
+## 📊 GitHub Stats
 
-**Built with:** JavaScript · Node.js · SQLite · Raspberry Pi · AirPlay
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Jonsueppel&cc=00000000&tc=00FF7F&ic=00FF7F" alt="Jonathon's GitHub statistics" />
+</p>
 
-[![Hymn Console repository](https://github-readme-stats.vercel.app/api/pin/?username=Jonsueppel&repo=Hymn-Console&theme=github_dark&hide_border=true)](https://github.com/Jonsueppel/Hymn-Console)
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
----
+## 🌍 Connect with Me
 
-## What I'm Working On
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jonathon-sueppel-338a475a  
+- 🖥️ **GitHub:** https://github.com/Jonsueppel  
+- ⛪ **Featured Project:** https://github.com/Jonsueppel/Hymn-Console  
 
-- Expanding Hymn Console with practical features for church AV teams
-- Building reusable PowerShell and Microsoft 365 administration tools
-- Exploring advanced Home Assistant, UniFi, and building-automation integrations
-- Continuing to strengthen infrastructure-as-code, security, and cloud architecture skills
+- <img src="https://hits.sh/github.com/Jonsueppel.svg?style=flat&label=Profile+Views&color=1c2126&labelColor=1c2126" alt="Profile Views"/>  
 
----
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## GitHub Activity
-
-<div align="center">
-
-[![Jonathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonsueppel&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true)](https://github.com/Jonsueppel)
-
-</div>
-
----
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/jonathon-sueppel-338a475a)
-- [Hymn Console on GitHub](https://github.com/Jonsueppel/Hymn-Console)
-
-> Building secure, dependable infrastructure—and practical tools that solve real problems.
+⭐ *Always building, improving, and securing IT environments — one practical solution at a time.*
