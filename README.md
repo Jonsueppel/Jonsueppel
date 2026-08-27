@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jonathon-sueppel-338a475a"><img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/full-time.svg" alt="Available for Full-Time Roles" /></a>
 </p>
 
-## 👨‍💻 Whoami
+## 🧭 Professional Snapshot
 
 - 14+ years designing, modernizing, and supporting business-critical infrastructure across complex, multi-site environments  
 - Deep expertise in Microsoft 365, Azure, Entra ID, Intune, VMware, Windows Server, and hybrid identity  
@@ -28,7 +28,7 @@
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## 🧰 Tech & Tools I Use
+## ⚙️ Platforms & Tooling
 
 **Infrastructure:** VMware vSphere/ESXi · Proxmox · QNAP · Hyper-V · UniFi · pfSense · Proxmox Backup Server · Veeam · Active Directory  
 **OS:** Windows Server · Ubuntu Server · Debian · Linux · Raspberry Pi  
@@ -77,13 +77,13 @@ Live visibility into vulnerabilities confirmed as actively exploited in the wild
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## 📂 Projects
+## 🚀 Featured Work
 
 ### ⛪ Church Technology & Automation
 
 - **[Hymn Console](https://github.com/Jonsueppel/Hymn-Console)** — Raspberry Pi hymn playback and service queue system designed to give church AV volunteers a simple, reliable way to organize and play music during services. `JavaScript` `Node.js` `SQLite` `Raspberry Pi` `AirPlay`
 
-### 🏠 Infrastructure & Homelab
+### 🧪 Homelab & Infrastructure
 
 - Building advanced Home Assistant dashboards and automations for lighting, climate, locks, cameras, presence, media, and whole-home control  
 - Designing secure UniFi networks, camera systems, VLANs, remote access, and resilient connectivity  
