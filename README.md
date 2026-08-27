@@ -34,14 +34,16 @@
 
 ## 🧰 Tech & Tools I Use
 
-**Infrastructure:** VMware vSphere/ESXi · Hyper-V · Veeam · Windows Server · Active Directory · Linux  
+**Infrastructure:** VMware vSphere/ESXi · Proxmox · QNAP · Hyper-V · UniFi · pfSense · Proxmox Backup Server · Veeam · Backblaze B2 · Active Directory  
+**OS:** Windows Server · Ubuntu Server · Debian · Linux  
+**Containers:** Docker · Docker Compose · Portainer  
 **Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID · Exchange Online · Teams · SharePoint  
-**Automation:** PowerShell · Microsoft Graph · REST APIs · Power Automate · GitHub Actions  
-**Networking:** UniFi · pfSense · VLAN Design · VPNs · DNS · DHCP · Tailscale · Cloudflare Tunnels  
-**Security:** Conditional Access · MFA · RBAC · Sophos · Proofpoint · Microsoft Defender · Duo  
-**Containers & Self-Hosted:** Docker · Home Assistant · AdGuard Home · Proxmox · Raspberry Pi  
+**Automation:** PowerShell · Microsoft Graph · REST APIs · Power Automate · GitHub/GitLab CI · n8n · AI Agents · MCP · RAG · Grafana · Prometheus  
+**Networking:** VLAN Design · WireGuard · Tailscale · Nginx Reverse Proxy/WAF · Cloudflare Tunnels · DNS · DHCP · Fing  
+**Self-Hosted:** AdGuard · Home Assistant · RustDesk · Uptime Kuma · Plex · LinkStack · Seafile · UrBackup · WikiDocs · Bitwarden · Raspberry Pi  
+**Security:** Wazuh · CrowdSec · LimaCharlie · Cloudflare Zero Trust · UniFi IDS/IPS · pfSense Firewall · Conditional Access · MFA · RBAC · Sophos · Proofpoint · Microsoft Defender · Duo  
 **Development & Data:** JavaScript · Node.js · SQLite · SQL Server · Snowflake  
-**Enterprise:** ConnectWise · ScreenConnect · Log360 · Endpoint Configuration Manager · UniFi Protect  
+**Enterprise:** ConnectWise · ScreenConnect · Auvik · Log360 · Microsoft Endpoint Configuration Manager · UniFi Protect · Cisco Umbrella · CrowdStrike · Mimecast · ManageEngine · KnowBe4 · Meraki  
 
 <p align="left">
   <a href="https://learn.microsoft.com/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell"/></a>
