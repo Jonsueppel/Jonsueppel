@@ -65,6 +65,18 @@
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
+## 🛡️ CISA Security Pulse
+
+Live visibility into vulnerabilities confirmed as actively exploited in the wild, powered by the official CISA Known Exploited Vulnerabilities catalog.
+
+<p align="center">
+  <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"><img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/assets/security-pulse.svg" alt="Live CISA Security Pulse"/></a>
+</p>
+
+<p align="center"><sub>Automatically refreshed daily from CISA's official KEV data mirror.</sub></p>
+
+<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
+
 ## 📂 Projects
 
 ### ⛪ Church Technology & Automation
