@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Senior Infrastructure Engineer | Microsoft Cloud, Security & Automation</strong><br/>
-  Shelby, North Carolina • 14+ Years in IT • Enterprise + Hybrid Infrastructure Engineer
+  Shelby, North Carolina • 14+ Years in IT • Homelab Enthusiast<br/>
+  <em>Enterprise infrastructure by profession. Homelab engineering by passion.</em>
 </p>
 
 <p align="center">
