@@ -44,20 +44,20 @@
 **Enterprise:** ConnectWise · ScreenConnect · Log360 · Endpoint Configuration Manager · UniFi Protect  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg" height="40" alt="VMware"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/>
-  <img src="https://cdn.simpleicons.org/ubiquiti/0598D6" height="40" alt="Ubiquiti"/>
-  <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" height="40" alt="Home Assistant"/>
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/>
-  <img src="https://cdn.simpleicons.org/tailscale/ffffff" height="40" alt="Tailscale"/>
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure"/></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Microsoft Windows"/></a>
+  <a href="https://www.vmware.com/products/cloud-infrastructure/vsphere"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original.svg" height="40" alt="VMware vSphere"/></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/></a>
+  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/></a>
+  <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/></a>
+  <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/></a>
+  <a href="https://www.raspberrypi.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/></a>
+  <a href="https://www.ui.com/"><img src="https://cdn.simpleicons.org/ubiquiti/0598D6" height="40" alt="Ubiquiti"/></a>
+  <a href="https://www.home-assistant.io/"><img src="https://cdn.simpleicons.org/homeassistant/41BDF5" height="40" alt="Home Assistant"/></a>
+  <a href="https://www.cloudflare.com/"><img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/></a>
+  <a href="https://tailscale.com/"><img src="https://cdn.simpleicons.org/tailscale/ffffff" height="40" alt="Tailscale"/></a>
 </p>
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
