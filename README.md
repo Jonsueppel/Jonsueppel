@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jonathon Sueppel 👋</h1>
+<h1 align="center">Jonathon Sueppel</h1>
 
 <p align="center">
   <strong>Senior Infrastructure Engineer | Microsoft Cloud, Security & Automation</strong><br/>
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jonathon-sueppel-338a475a"><img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/full-time.svg" alt="Available for Full-Time Roles" /></a>
 </p>
 
-## 🧭 Professional Snapshot
+## Professional Overview
 
 - 14+ years designing, modernizing, and supporting business-critical infrastructure across complex, multi-site environments  
 - Deep expertise in Microsoft 365, Azure, Entra ID, Intune, VMware, Windows Server, and hybrid identity  
@@ -28,7 +28,7 @@
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## ⚙️ Platforms & Tooling
+## Core Technologies
 
 **Infrastructure:** VMware vSphere/ESXi · Proxmox · QNAP · Hyper-V · UniFi · pfSense · Proxmox Backup Server · Veeam · Active Directory  
 **OS:** Windows Server · Ubuntu Server · Debian · Linux · Raspberry Pi  
@@ -65,7 +65,7 @@
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## 🛡️ CISA Security Pulse
+## Security Intelligence
 
 Live visibility into vulnerabilities confirmed as actively exploited in the wild, powered by the official CISA Known Exploited Vulnerabilities catalog.
 
@@ -77,13 +77,13 @@ Live visibility into vulnerabilities confirmed as actively exploited in the wild
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## 🚀 Featured Work
+## Featured Projects
 
-### ⛪ Church Technology & Automation
+### Church Technology and Automation
 
 - **[Hymn Console](https://github.com/Jonsueppel/Hymn-Console)** — Raspberry Pi hymn playback and service queue system designed to give church AV volunteers a simple, reliable way to organize and play music during services. `JavaScript` `Node.js` `SQLite` `Raspberry Pi` `AirPlay`
 
-### 🧪 Homelab & Infrastructure
+### Infrastructure and Homelab
 
 - Building advanced Home Assistant dashboards and automations for lighting, climate, locks, cameras, presence, media, and whole-home control  
 - Designing secure UniFi networks, camera systems, VLANs, remote access, and resilient connectivity  
@@ -91,7 +91,7 @@ Live visibility into vulnerabilities confirmed as actively exploited in the wild
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Jonsueppel&cc=00000000&tc=00FF7F&ic=00FF7F" alt="Jonathon's GitHub statistics" />
@@ -99,14 +99,14 @@ Live visibility into vulnerabilities confirmed as actively exploited in the wild
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## 🌍 Connect with Me
+## Connect
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jonathon-sueppel-338a475a  
-- 🖥️ **GitHub:** https://github.com/Jonsueppel  
-- ⛪ **Featured Project:** https://github.com/Jonsueppel/Hymn-Console  
+- **LinkedIn:** https://www.linkedin.com/in/jonathon-sueppel-338a475a  
+- **GitHub:** https://github.com/Jonsueppel  
+- **Featured Project:** https://github.com/Jonsueppel/Hymn-Console  
 
 - <img src="https://hits.sh/github.com/Jonsueppel.svg?style=flat&label=Profile+Views&color=1c2126&labelColor=1c2126" alt="Profile Views"/>  
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-⭐ *Always building, improving, and securing IT environments — one practical solution at a time.*
+*Always building, improving, and securing IT environments—one practical solution at a time.*
