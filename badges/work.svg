@@ -1,0 +1,17 @@
+<svg width="148" height="28" viewBox="0 0 148 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <style>
+      @keyframes pulseHalo { 0%, 100% { opacity: 0.4; } 50% { opacity: 0.85; } }
+      @keyframes pulseDot { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+      .halo { animation: pulseHalo 2.2s ease-in-out infinite; animation-delay: 1.1s; }
+      .dot { animation: pulseDot 2.2s ease-in-out infinite; animation-delay: 1.1s; }
+    </style>
+  </defs>
+  <rect x="2" y="2" width="144" height="24" rx="3" fill="#51ff4a" filter="url(#glow)" class="halo"/>
+  <rect x="2" y="2" width="144" height="24" rx="3" fill="#08170a" stroke="#51ff4a" stroke-width="1.3"/>
+  <circle cx="18" cy="14" r="4" fill="#6dff69" class="dot"/>
+  <text x="30" y="18" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" font-weight="700" letter-spacing="0.5" fill="#8effa0">OPEN TO WORK</text>
+</svg>
