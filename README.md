@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Remote%20%7C%20Hybrid-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Remote or Hybrid" />
+  <img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/full-time.svg" alt="Available for Full-Time Roles" />
+  <img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/work.svg" alt="Open to Work" />
 </p>
 
 ## 👨‍💻 Whoami
