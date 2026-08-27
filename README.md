@@ -1,10 +1,8 @@
-<h1 align="center">Jonathon Sueppel</h1>
-
 <p align="center">
-  <strong>Senior Infrastructure Engineer | Microsoft Cloud, Security & Automation</strong><br/>
-  Shelby, North Carolina • 14+ Years in IT • Homelab Enthusiast<br/>
-  <em>Enterprise infrastructure by profession. Homelab engineering by passion.</em>
+  <img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/assets/profile-header.svg" alt="Jonathon Sueppel — Senior Infrastructure Engineer" width="100%"/>
 </p>
+
+<p align="center"><em>Enterprise infrastructure by profession. Homelab engineering by passion.</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathon-sueppel-338a475a"><img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/work.svg" alt="Open to Work" /></a>
