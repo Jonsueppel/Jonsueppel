@@ -6,12 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonathon-sueppel-338a475a">
-    <img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/work.svg" alt="Open to Work" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonathon-sueppel-338a475a">
-    <img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/full-time.svg" alt="Available for Full-Time Roles" />
-  </a>
+  <a href="https://www.linkedin.com/in/jonathon-sueppel-338a475a"><img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/work.svg" alt="Open to Work" /></a>
+  <a href="https://www.linkedin.com/in/jonathon-sueppel-338a475a"><img src="https://raw.githubusercontent.com/Jonsueppel/Jonsueppel/main/badges/full-time.svg" alt="Available for Full-Time Roles" /></a>
 </p>
 
 ## 👨‍💻 Whoami
