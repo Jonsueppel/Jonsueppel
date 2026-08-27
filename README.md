@@ -34,16 +34,16 @@
 
 ## 🧰 Tech & Tools I Use
 
-**Infrastructure:** VMware vSphere/ESXi · Proxmox · QNAP · Hyper-V · UniFi · pfSense · Proxmox Backup Server · Veeam · Backblaze B2 · Active Directory  
-**OS:** Windows Server · Ubuntu Server · Debian · Linux  
+**Infrastructure:** VMware vSphere/ESXi · Proxmox · QNAP · Hyper-V · UniFi · pfSense · Proxmox Backup Server · Veeam · Active Directory  
+**OS:** Windows Server · Ubuntu Server · Debian · Linux · Raspberry Pi  
 **Containers:** Docker · Docker Compose · Portainer  
 **Cloud:** Azure · Microsoft 365 · Intune · Autopilot · Entra ID · Exchange Online · Teams · SharePoint  
-**Automation:** PowerShell · Microsoft Graph · REST APIs · Power Automate · GitHub/GitLab CI · n8n · AI Agents · MCP · RAG · Grafana · Prometheus  
-**Networking:** VLAN Design · WireGuard · Tailscale · Nginx Reverse Proxy/WAF · Cloudflare Tunnels · DNS · DHCP · Fing  
-**Self-Hosted:** AdGuard · Home Assistant · RustDesk · Uptime Kuma · Plex · LinkStack · Seafile · UrBackup · WikiDocs · Bitwarden · Raspberry Pi  
-**Security:** Wazuh · CrowdSec · LimaCharlie · Cloudflare Zero Trust · UniFi IDS/IPS · pfSense Firewall · Conditional Access · MFA · RBAC · Sophos · Proofpoint · Microsoft Defender · Duo  
-**Development & Data:** JavaScript · Node.js · SQLite · SQL Server · Snowflake  
-**Enterprise:** ConnectWise · ScreenConnect · Auvik · Log360 · Microsoft Endpoint Configuration Manager · UniFi Protect · Cisco Umbrella · CrowdStrike · Mimecast · ManageEngine · KnowBe4 · Meraki  
+**Automation:** PowerShell · Microsoft Graph · REST APIs · Power Automate · GitHub/GitLab CI · AI Agents · MCP · Grafana · Prometheus  
+**Networking:** VLAN Design · WireGuard · Cloudflare Tunnels · DNS · DHCP  
+**Self-Hosted:** AdGuard · Home Assistant · RustDesk · Uptime Kuma · Plex · Bitwarden · Raspberry Pi  
+**Security:** Cloudflare Zero Trust · UniFi IDS/IPS · pfSense Firewall · Conditional Access · MFA · RBAC · Sophos · Proofpoint · Microsoft Defender · Duo  
+**Development & Data:** JavaScript · Node.js · SQLite · SQL Server  
+**Enterprise:** ConnectWise · ScreenConnect · Auvik · Microsoft Endpoint Configuration Manager · UniFi Protect · ManageEngine · KnowBe4  
 
 <p align="left">
   <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/></a>
