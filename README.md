@@ -47,8 +47,6 @@
 
 <p align="left">
   <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/></a>
-  <a href="https://nginx.org/" title="NGINX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX"/></a>
-  <a href="https://tailscale.com/" title="Tailscale"><img src="https://cdn.simpleicons.org/tailscale/ffffff" height="40" alt="Tailscale"/></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/></a>
   <a href="https://github.com/" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/></a>
   <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"/></a>
