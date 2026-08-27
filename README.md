@@ -91,14 +91,6 @@ Live visibility into vulnerabilities confirmed as actively exploited in the wild
 
 <hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Jonsueppel&cc=00000000&tc=00FF7F&ic=00FF7F" alt="Jonathon's GitHub statistics" />
-</p>
-
-<hr style="border: 0; height: 2px; background: #00FF7F; opacity: 0.6;"/>
-
 ## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/jonathon-sueppel-338a475a  
