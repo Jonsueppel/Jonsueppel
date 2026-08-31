@@ -24,16 +24,16 @@
   <text x="646" y="31" class="label">LIVE KEV DATA</text>
 
   <text x="34" y="75" class="label">KNOWN EXPLOITED</text>
-  <text x="34" y="107" class="value">1685</text>
+  <text x="34" y="107" class="value">1687</text>
   <text x="252" y="75" class="label">ADDED · LAST 7 DAYS</text>
-  <text x="252" y="107" class="value">11</text>
+  <text x="252" y="107" class="value">13</text>
   <text x="500" y="75" class="label">CATALOG VERSION</text>
-  <text x="500" y="107" class="value">2026.08.27</text>
+  <text x="500" y="107" class="value">2026.08.31</text>
 
   <line x1="24" y1="126" x2="796" y2="126" stroke="#238636" stroke-width="1"/>
   <text x="34" y="145" class="label">LATEST CATALOG ENTRIES</text>
-  <text x="34" y="164" class="entry">CVE-2023-49105 · ownCloud · ownCloud</text><text x="34" y="188" class="entry">CVE-2026-53362 · Linux · Kernel</text><text x="34" y="212" class="entry">CVE-2026-66384 · JFrog · Artifactory</text>
+  <text x="34" y="164" class="entry">CVE-2026-82078 · PaperCut · NG/MF</text><text x="34" y="188" class="entry">CVE-2026-81578 · PaperCut · NG/MF</text><text x="34" y="212" class="entry">CVE-2023-49105 · ownCloud · ownCloud</text>
 
   <text x="34" y="232" class="foot">Source: CISA Known Exploited Vulnerabilities Catalog</text>
-  <text x="588" y="232" class="foot">Refreshed 2026-08-30 16:47 UTC</text>
+  <text x="588" y="232" class="foot">Refreshed 2026-08-31 19:09 UTC</text>
 </svg>
