@@ -26,7 +26,7 @@
   <text x="34" y="75" class="label">KNOWN EXPLOITED</text>
   <text x="34" y="107" class="value">1687</text>
   <text x="252" y="75" class="label">ADDED · LAST 7 DAYS</text>
-  <text x="252" y="107" class="value">13</text>
+  <text x="252" y="107" class="value">12</text>
   <text x="500" y="75" class="label">CATALOG VERSION</text>
   <text x="500" y="107" class="value">2026.08.31</text>
 
@@ -35,5 +35,5 @@
   <text x="34" y="164" class="entry">CVE-2026-82078 · PaperCut · NG/MF</text><text x="34" y="188" class="entry">CVE-2026-81578 · PaperCut · NG/MF</text><text x="34" y="212" class="entry">CVE-2023-49105 · ownCloud · ownCloud</text>
 
   <text x="34" y="232" class="foot">Source: CISA Known Exploited Vulnerabilities Catalog</text>
-  <text x="588" y="232" class="foot">Refreshed 2026-08-31 19:09 UTC</text>
+  <text x="588" y="232" class="foot">Refreshed 2026-09-01 16:45 UTC</text>
 </svg>
