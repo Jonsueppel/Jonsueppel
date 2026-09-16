@@ -101,6 +101,6 @@ Live visibility into vulnerabilities confirmed as actively exploited in the wild
 *Always building, improving, and securing IT environments—one practical solution at a time.*
 ## Latest Project
 ### Job Match Command Center
-[**View the repository**](https://github.com/Jonsueppel/job-match-command-center)
+[**View the repository**](https://github.com/Jonsueppel/Job-Match-Command-Center)
 A production-ready, self-hosted job discovery platform that searches multiple sources, compares postings with an uploaded resume, ranks opportunities, filters poor matches, tracks applications, and emails the strongest new jobs. Built for flexible use across career fields and deployable with Docker on Proxmox or any compatible host.
 `Python` `Flask` `SQLite` `Docker` `Resume Matching` `Job Search Automation` `Email Alerts`
