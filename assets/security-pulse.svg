@@ -26,7 +26,7 @@
   <text x="34" y="75" class="label">KNOWN EXPLOITED</text>
   <text x="34" y="107" class="value">1713</text>
   <text x="252" y="75" class="label">ADDED · LAST 7 DAYS</text>
-  <text x="252" y="107" class="value">10</text>
+  <text x="252" y="107" class="value">8</text>
   <text x="500" y="75" class="label">CATALOG VERSION</text>
   <text x="500" y="107" class="value">2026.09.16</text>
 
@@ -35,5 +35,5 @@
   <text x="34" y="164" class="entry">CVE-2026-58704 · Google · Pixel</text><text x="34" y="188" class="entry">CVE-2026-76460 · Cisco · Identity Services Engine</text><text x="34" y="212" class="entry">CVE-2026-87886 · Acronis · Backup</text>
 
   <text x="34" y="232" class="foot">Source: CISA Known Exploited Vulnerabilities Catalog</text>
-  <text x="588" y="232" class="foot">Refreshed 2026-09-17 17:08 UTC</text>
+  <text x="588" y="232" class="foot">Refreshed 2026-09-18 16:32 UTC</text>
 </svg>
