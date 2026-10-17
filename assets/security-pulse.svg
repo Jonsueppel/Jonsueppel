@@ -24,16 +24,16 @@
   <text x="646" y="31" class="label">LIVE KEV DATA</text>
 
   <text x="34" y="75" class="label">KNOWN EXPLOITED</text>
-  <text x="34" y="107" class="value">1746</text>
+  <text x="34" y="107" class="value">1748</text>
   <text x="252" y="75" class="label">ADDED · LAST 7 DAYS</text>
-  <text x="252" y="107" class="value">7</text>
+  <text x="252" y="107" class="value">9</text>
   <text x="500" y="75" class="label">CATALOG VERSION</text>
-  <text x="500" y="107" class="value">2026.10.15</text>
+  <text x="500" y="107" class="value">2026.10.16</text>
 
   <line x1="24" y1="126" x2="796" y2="126" stroke="#238636" stroke-width="1"/>
   <text x="34" y="145" class="label">LATEST CATALOG ENTRIES</text>
-  <text x="34" y="164" class="entry">CVE-2026-21589 · Atlassian · Multiple Products</text><text x="34" y="188" class="entry">CVE-2026-105134 · Ahsay · AhsayCBS</text><text x="34" y="212" class="entry">CVE-2026-76519 · Cisco · Secure Email Gateway</text>
+  <text x="34" y="164" class="entry">CVE-2026-102764 · BeyondTrust · Remote Support</text><text x="34" y="188" class="entry">CVE-2025-61624 · Fortinet · Multiple Products</text><text x="34" y="212" class="entry">CVE-2026-21589 · Atlassian · Multiple Products</text>
 
   <text x="34" y="232" class="foot">Source: CISA Known Exploited Vulnerabilities Catalog</text>
-  <text x="588" y="232" class="foot">Refreshed 2026-10-16 16:46 UTC</text>
+  <text x="588" y="232" class="foot">Refreshed 2026-10-17 15:43 UTC</text>
 </svg>
