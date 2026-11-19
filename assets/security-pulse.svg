@@ -24,16 +24,16 @@
   <text x="646" y="31" class="label">LIVE KEV DATA</text>
 
   <text x="34" y="75" class="label">KNOWN EXPLOITED</text>
-  <text x="34" y="107" class="value">1782</text>
+  <text x="34" y="107" class="value">1786</text>
   <text x="252" y="75" class="label">ADDED · LAST 7 DAYS</text>
-  <text x="252" y="107" class="value">3</text>
+  <text x="252" y="107" class="value">7</text>
   <text x="500" y="75" class="label">CATALOG VERSION</text>
-  <text x="500" y="107" class="value">2026.11.17</text>
+  <text x="500" y="107" class="value">2026.11.18</text>
 
   <line x1="24" y1="126" x2="796" y2="126" stroke="#238636" stroke-width="1"/>
   <text x="34" y="145" class="label">LATEST CATALOG ENTRIES</text>
-  <text x="34" y="164" class="entry">CVE-2026-115731 · Perforce · Puppet Enterprise</text><text x="34" y="188" class="entry">CVE-2026-114713 · UnrealIRCd · UnrealIRCd</text><text x="34" y="212" class="entry">CVE-2026-123039 · Check Point · Multiple Products</text>
+  <text x="34" y="164" class="entry">CVE-2024-10441 · Synology · DiskStation Manager (DSM)</text><text x="34" y="188" class="entry">CVE-2026-40217 · BerriAI · LiteLLM</text><text x="34" y="212" class="entry">CVE-2026-90817 · Vanderbilt University · Research Electronic Data Capture (RE…</text>
 
   <text x="34" y="232" class="foot">Source: CISA Known Exploited Vulnerabilities Catalog</text>
-  <text x="588" y="232" class="foot">Refreshed 2026-11-18 20:42 UTC</text>
+  <text x="588" y="232" class="foot">Refreshed 2026-11-19 20:47 UTC</text>
 </svg>
